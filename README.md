@@ -77,4 +77,4 @@ Used CASE WHEN to classify customers
 
 ## 📁 Project Structure
 
-![Top 3 Products](reference/Top_3_products.png)
+![Top 3 Products](reference/top_3.jpeg)
