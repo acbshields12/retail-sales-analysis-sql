@@ -78,3 +78,11 @@ Used CASE WHEN to classify customers
 ## 📁 DASHBOARD PREVIEW
 
 ![](dashboard/dashboard.jpg)
+
+
+---
+
+## 👤 Author
+
+Adriane Clark Ballesteros-Shields
+acbshields12
