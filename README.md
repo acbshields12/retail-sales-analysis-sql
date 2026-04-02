@@ -85,7 +85,7 @@ Used CASE WHEN to classify customers
 ## 👤 Author
 
 Adriane Clark Ballesteros  
-Healthcare Data Analyst Trainee
+Data Analyst Trainee
 
 * 🔗 GitHub: https://github.com/acbshields12
 
