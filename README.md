@@ -85,5 +85,5 @@ Used CASE WHEN to classify customers
 ## 👤 Author
 
 Adriane Clark Ballesteros-Shields
-acbshields12
+
 ---
