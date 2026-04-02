@@ -85,5 +85,6 @@ Used CASE WHEN to classify customers
 ## 👤 Author
 
 Adriane Clark Ballesteros-Shields
+Healthcare Data Analyst Trainee
 
 ---
