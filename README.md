@@ -20,10 +20,9 @@ The dataset was cleaned in Excel and imported into a relational database. SQL qu
 
 AI tools were used to assist in:
 
-* Created realistic synthetic healthcare dataset
-* Used nested queries to calculate metrics such as returning patients
-* Utilized DATE_FORMAT() to group data by month and year for time-based trend analysis
-* Built logic for calculating percentage rates 
+* Created realistic synthetic dataset
+* Built logic for calculating percentage rates
+* Utilized SQL queries using JOINs, CASE statements, subqueries, and aggregations to extract and analyze data 
 * Debugging errors in SQL and DAX
 * Structuring calculations for Power BI
 
