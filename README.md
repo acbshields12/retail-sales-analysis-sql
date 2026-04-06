@@ -12,7 +12,22 @@ The dataset was cleaned in Excel and imported into a relational database. SQL qu
 
 * MySQL
 * Microsoft Excel
-* Power BI (optional)
+* Power BI
+
+---
+
+## 🤖 Use of AI
+
+AI tools were used to assist in:
+
+* Created realistic synthetic healthcare dataset
+* Used nested queries to calculate metrics such as returning patients
+* Utilized DATE_FORMAT() to group data by month and year for time-based trend analysis
+* Built logic for calculating percentage rates 
+* Debugging errors in SQL and DAX
+* Structuring calculations for Power BI
+
+All outputs were manually validated and refined to ensure accuracy and reliability.
 
 ---
 
