@@ -91,7 +91,7 @@ Used CASE WHEN to classify customers
 
 ## 📁 DASHBOARD PREVIEW
 
-![](dashboard/dashboard_page-0001.jpg)
+![](dashboard/dashboard.jpg)
 
 
 ---
